@@ -2378,5 +2378,17 @@
       a:hover {
         text-decoration: underline;
       }
-    -->
+
+      pre.src {
+          background-color: #3F3F3F;
+          color: #DCDCCC;
+          border-radius: 25px;
+      }
+
+      pre.example {
+          background-color: #3F3F3F;
+          color: #DCDCCC;
+          border-radius: 25px;
+      }
+-->
 </style>
