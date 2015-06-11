@@ -1592,6 +1592,157 @@
         font-weight: bold;
         text-decoration: underline;
       }
+      .org-nxml-attribute-colon {
+      }
+      .org-nxml-attribute-local-name {
+        /* nxml-attribute-local-name */
+        color: #DFAF8F;
+      }
+      .org-nxml-attribute-prefix {
+        /* nxml-attribute-prefix */
+        color: #DCDCCC;
+        font-weight: bold;
+      }
+      .org-nxml-attribute-value {
+        /* nxml-attribute-value */
+        color: #CC9393;
+      }
+      .org-nxml-attribute-value-delimiter {
+        /* nxml-attribute-value-delimiter */
+        color: #CC9393;
+      }
+      .org-nxml-cdata-section-cdata {
+        /* nxml-cdata-section-CDATA */
+        color: #DCDCCC;
+        font-weight: bold;
+      }
+      .org-nxml-cdata-section-content {
+      }
+      .org-nxml-cdata-section-delimiter {
+      }
+      .org-nxml-char-ref-delimiter {
+        /* nxml-char-ref-delimiter */
+        color: #BFEBBF;
+      }
+      .org-nxml-char-ref-number {
+        /* nxml-char-ref-number */
+        color: #BFEBBF;
+      }
+      .org-nxml-comment-content {
+        /* nxml-comment-content */
+        color: #7F9F7F;
+      }
+      .org-nxml-comment-delimiter {
+        /* nxml-comment-delimiter */
+        color: #5F7F5F;
+      }
+      .org-nxml-delimited-data {
+        /* nxml-delimited-data */
+        color: #9FC59F;
+      }
+      .org-nxml-delimiter {
+      }
+      .org-nxml-element-colon {
+      }
+      .org-nxml-element-local-name {
+        /* nxml-element-local-name */
+        color: #93E0E3;
+      }
+      .org-nxml-element-prefix {
+        /* nxml-element-prefix */
+        color: #DCDCCC;
+        font-weight: bold;
+      }
+      .org-nxml-entity-ref-delimiter {
+        /* nxml-entity-ref-delimiter */
+        color: #BFEBBF;
+      }
+      .org-nxml-entity-ref-name {
+        /* nxml-entity-ref-name */
+        color: #BFEBBF;
+      }
+      .org-nxml-glyph {
+        /* nxml-glyph */
+        color: #000000;
+        background-color: #d3d3d3;
+      }
+      .org-nxml-hash {
+        /* nxml-hash */
+        color: #DCDCCC;
+        font-weight: bold;
+      }
+      .org-nxml-heading {
+        /* nxml-heading */
+        font-weight: bold;
+      }
+      .org-nxml-markup-declaration-delimiter {
+      }
+      .org-nxml-name {
+        /* nxml-name */
+        color: #DCDCCC;
+        font-weight: bold;
+      }
+      .org-nxml-namespace-attribute-colon {
+      }
+      .org-nxml-namespace-attribute-prefix {
+        /* nxml-namespace-attribute-prefix */
+        color: #DFAF8F;
+      }
+      .org-nxml-namespace-attribute-value {
+        /* nxml-namespace-attribute-value */
+        color: #CC9393;
+      }
+      .org-nxml-namespace-attribute-value-delimiter {
+        /* nxml-namespace-attribute-value-delimiter */
+        color: #CC9393;
+      }
+      .org-nxml-namespace-attribute-xmlns {
+        /* nxml-namespace-attribute-xmlns */
+        color: #DCDCCC;
+        font-weight: bold;
+      }
+      .org-nxml-outline-active-indicator {
+      }
+      .org-nxml-outline-ellipsis {
+        /* nxml-outline-ellipsis */
+        font-weight: bold;
+      }
+      .org-nxml-outline-indicator {
+      }
+      .org-nxml-processing-instruction-content {
+        /* nxml-processing-instruction-content */
+        color: #9FC59F;
+      }
+      .org-nxml-processing-instruction-delimiter {
+      }
+      .org-nxml-processing-instruction-target {
+        /* nxml-processing-instruction-target */
+        color: #F0DFAF;
+        font-weight: bold;
+      }
+      .org-nxml-prolog-keyword {
+        /* nxml-prolog-keyword */
+        color: #F0DFAF;
+        font-weight: bold;
+      }
+      .org-nxml-prolog-literal-content {
+        /* nxml-prolog-literal-content */
+        color: #9FC59F;
+      }
+      .org-nxml-prolog-literal-delimiter {
+        /* nxml-prolog-literal-delimiter */
+        color: #9FC59F;
+      }
+      .org-nxml-ref {
+        /* nxml-ref */
+        color: #BFEBBF;
+      }
+      .org-nxml-tag-delimiter {
+      }
+      .org-nxml-tag-slash {
+      }
+      .org-nxml-text {
+      }
       .org-org-agenda-calendar-event {
         /* org-agenda-calendar-event */
         color: #DCDCCC;
