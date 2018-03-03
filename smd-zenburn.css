@@ -655,6 +655,96 @@ body {
     /* glyphless-char */
     font-size: 60%;
 }
+.org-haskell-constructor {
+    /* haskell-constructor-face */
+    color: #7CB8BB;
+}
+.org-haskell-debug-muted {
+    /* haskell-debug-muted-face */
+    color: #999;
+}
+.org-haskell-debug-newline {
+    /* haskell-debug-newline-face */
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
+.org-haskell-debug-trace-number {
+    /* haskell-debug-trace-number-face */
+    background-color: #f5f5f5;
+    font-weight: bold;
+}
+.org-haskell-definition {
+    /* haskell-definition-face */
+    color: #93E0E3;
+}
+.org-haskell-error {
+    /* haskell-error-face */
+    text-decoration: underline;
+}
+.org-haskell-hole {
+    /* haskell-hole-face */
+    text-decoration: underline;
+}
+.org-haskell-interactive-face-compile-error {
+    /* haskell-interactive-face-compile-error */
+    color: #ffc0cb;
+    font-weight: bold;
+}
+.org-haskell-interactive-face-compile-warning {
+    /* haskell-interactive-face-compile-warning */
+    color: #DFAF8F;
+    font-weight: bold;
+}
+.org-haskell-interactive-face-garbage {
+    /* haskell-interactive-face-garbage */
+    color: #CC9393;
+}
+.org-haskell-interactive-face-prompt {
+    /* haskell-interactive-face-prompt */
+    color: #93E0E3;
+}
+.org-haskell-interactive-face-prompt2 {
+    /* haskell-interactive-face-prompt2 */
+    color: #F0DFAF;
+    font-weight: bold;
+}
+.org-haskell-interactive-face-result {
+    /* haskell-interactive-face-result */
+    color: #CC9393;
+}
+.org-haskell-keyword {
+    /* haskell-keyword-face */
+    color: #F0DFAF;
+    font-weight: bold;
+}
+.org-haskell-liquid-haskell-annotation {
+    /* haskell-liquid-haskell-annotation-face */
+    color: #94BFF3;
+}
+.org-haskell-literate-comment {
+    /* haskell-literate-comment-face */
+    color: #9FC59F;
+}
+.org-haskell-operator {
+    /* haskell-operator-face */
+    color: #DFAF8F;
+}
+.org-haskell-pragma {
+    /* haskell-pragma-face */
+    color: #94BFF3;
+}
+.org-haskell-quasi-quote {
+    /* haskell-quasi-quote-face */
+    color: #CC9393;
+}
+.org-haskell-type {
+    /* haskell-type-face */
+    color: #7CB8BB;
+}
+.org-haskell-warning {
+    /* haskell-warning-face */
+    text-decoration: underline;
+}
 .org-header-line {
     /* header-line */
     color: #F0DFAF;
